@@ -1,4 +1,4 @@
-# 📈 Digital Marketing Campaign Analysis
+# 📈 SuperStore Sales Analysis
 Project Overview:
 This project helps to understand customer behaviour and sales trend in the world of e-commerce.This aims to analyze sales data to identify customer segments and provide insights to optimize sales and improve profitability for an e-commerce company.
 
